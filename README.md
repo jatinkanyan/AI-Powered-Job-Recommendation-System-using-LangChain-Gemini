@@ -49,15 +49,13 @@ Before running the app, you need:
   pip install -r requirements.txt
 
 -How to Run the App
+
 Open a terminal or command prompt.
 
 Navigate to the project directory.
 
 Run the Streamlit app with:
 
-bash
-Copy
-Edit
 streamlit run app.py
 The app will automatically open in your default web browser.
 
@@ -77,8 +75,5 @@ The most relevant job postings are retrieved based on similarity.
 A Google Generative AI language model generates readable recommendations from these results.
 
 Example Input
-css
-Copy
-Edit
 Skills: Python, SQL, Excel; Experience: 0 years; Looking for Data Analyst roles in Canada
 
